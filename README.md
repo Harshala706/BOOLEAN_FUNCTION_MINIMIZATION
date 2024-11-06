@@ -55,10 +55,10 @@ endmodule
 ![exp logicgate-2](https://github.com/user-attachments/assets/27fcbb51-886e-43c8-9ceb-2525de4755db)
 
 **RTL**
-![exp waveform-2](https://github.com/user-attachments/assets/71b2a898-265d-4cc2-8b37-9c0c825c4d2b)
+![Screenshot 2024-11-06 082414](https://github.com/user-attachments/assets/4dba1484-35f5-40bb-a629-206070099442)
 
 **Timing Diagram**
-![exp waveform-2](https://github.com/user-attachments/assets/71b2a898-265d-4cc2-8b37-9c0c825c4d2b)
+
 **Result:**
 
 Thus the given logic function is implemented and their operations are verified using Verilog programming.
